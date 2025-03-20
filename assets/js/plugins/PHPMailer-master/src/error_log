@@ -1,0 +1,8 @@
+[19-Jan-2023 13:38:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/getheoc/public_html/meutelao/assets/js/plugins/PHPMailer-master/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/assets/js/plugins/PHPMailer-master/src/OAuth.php on line 36
+[20-Jan-2023 11:52:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/getheoc/public_html/meutelao/assets/js/plugins/PHPMailer-master/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/assets/js/plugins/PHPMailer-master/src/OAuth.php on line 36

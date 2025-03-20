@@ -1,0 +1,40 @@
+[07-Oct-2023 13:46:38 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[07-Oct-2023 13:46:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[07-Oct-2023 13:46:38 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[07-Oct-2023 13:46:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[07-Oct-2023 13:46:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[09-Oct-2023 22:58:59 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[09-Oct-2023 22:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[09-Oct-2023 22:58:59 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[09-Oct-2023 22:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[09-Oct-2023 22:58:59 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[11-Oct-2023 08:12:55 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[11-Oct-2023 08:12:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[11-Oct-2023 08:12:55 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[11-Oct-2023 08:12:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[11-Oct-2023 08:12:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[17-Oct-2023 13:09:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[17-Oct-2023 13:09:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[17-Oct-2023 13:09:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[17-Oct-2023 13:09:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[17-Oct-2023 13:09:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[18-Oct-2023 06:56:01 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[18-Oct-2023 06:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[18-Oct-2023 06:56:01 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[18-Oct-2023 06:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[18-Oct-2023 06:56:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[22-Oct-2023 11:20:39 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[22-Oct-2023 11:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[22-Oct-2023 11:20:39 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[22-Oct-2023 11:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[22-Oct-2023 11:20:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[29-Oct-2023 17:48:04 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[29-Oct-2023 17:48:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[29-Oct-2023 17:48:04 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[29-Oct-2023 17:48:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[29-Oct-2023 17:48:04 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6
+[12-Dec-2023 12:55:29 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[12-Dec-2023 12:55:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 72
+[12-Dec-2023 12:55:29 UTC] PHP Warning:  Undefined variable $_SESSION in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[12-Dec-2023 12:55:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/portal/index.php on line 128
+[12-Dec-2023 12:55:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/getheoc/public_html/meutelao/portal/dashboard.php on line 6

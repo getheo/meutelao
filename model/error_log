@@ -1,0 +1,437 @@
+[21-Sep-2022 17:34:56 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 17:35:05 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 17:35:09 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 17:35:10 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 17:35:10 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 19:08:32 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[21-Sep-2022 19:08:37 America/Cuiaba] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/getheoc/public_html/meutelao/engine/DB.php:31
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(66): DB::getConnection()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(39): DB::select('SELECT * FROM u...', Array)
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/engine/DB.php on line 31
+[27-Sep-2022 15:56:51 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:56:51 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:56:51 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:15 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:15 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:15 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:32 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:32 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:32 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:35 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:35 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 15:57:35 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:11:57 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:12:38 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:12:38 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:12:38 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:15:06 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:15:06 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 16:15:06 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 17:43:01 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 17:43:01 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 17:43:01 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:14:33 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:14:33 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:14:33 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:16:19 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:16:19 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:16:19 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:19:03 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:19:03 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:19:03 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:10 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:10 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:10 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:42 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:42 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:36:42 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:38:55 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:38:55 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:38:55 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:40:17 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:40:17 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:40:17 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:41:46 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:41:46 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:41:46 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:43:16 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:43:16 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:43:16 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:49:06 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:49:06 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:49:06 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:50:15 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:50:15 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:50:15 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:52:05 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:52:05 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:52:05 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:57:26 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:57:26 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:57:26 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:58:34 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:58:34 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 18:58:34 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 19:01:00 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 19:01:00 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 19:01:00 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 53
+[27-Sep-2022 23:43:01 UTC] PHP Warning:  POST Content-Length of 12327091 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Sep-2022 19:43:01 America/Cuiaba] PHP Warning:  Undefined array key "idusuario" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:01 America/Cuiaba] PHP Warning:  Undefined array key "idevento" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:01 America/Cuiaba] PHP Warning:  Undefined array key "cod" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:01 America/Cuiaba] PHP Warning:  Undefined array key "codArquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 23:43:59 UTC] PHP Warning:  POST Content-Length of 12327091 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Sep-2022 19:43:59 America/Cuiaba] PHP Warning:  Undefined array key "idusuario" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:59 America/Cuiaba] PHP Warning:  Undefined array key "idevento" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:59 America/Cuiaba] PHP Warning:  Undefined array key "cod" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[27-Sep-2022 19:43:59 America/Cuiaba] PHP Warning:  Undefined array key "codArquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 18
+[29-Sep-2022 11:37:29 America/Cuiaba] PHP Fatal error:  Uncaught ArgumentCountError: password_hash() expects at least 2 arguments, 1 given in /home/getheoc/public_html/meutelao/model/cadastro.php:45
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/model/cadastro.php(45): password_hash('T4XUI1')
+#1 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#2 /home/getheoc/public_html/meutelao/model/cadastro.php(69): DB::safeTransaction(Object(Closure))
+#3 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 45
+[29-Sep-2022 11:44:03 America/Cuiaba] PHP Fatal error:  Uncaught ArgumentCountError: password_hash() expects at least 2 arguments, 1 given in /home/getheoc/public_html/meutelao/model/cadastro.php:45
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/model/cadastro.php(45): password_hash('EUA721')
+#1 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#2 /home/getheoc/public_html/meutelao/model/cadastro.php(69): DB::safeTransaction(Object(Closure))
+#3 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 45
+[29-Sep-2022 16:54:57 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(107): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:02:10 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(107): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:04:19 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(107): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:15:02 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(106): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:15:47 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(106): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:16:39 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(107): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:17:27 America/Cuiaba] PHP Warning:  require_once(./assets/js/plugins/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/getheoc/public_html/meutelao/model/cadastro.php on line 6
+[29-Sep-2022 17:17:27 America/Cuiaba] PHP Fatal error:  Uncaught Error: Failed opening required './assets/js/plugins/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/getheoc/public_html/meutelao/model/cadastro.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 6
+[29-Sep-2022 17:17:36 America/Cuiaba] PHP Warning:  require_once(./assets/js/plugins/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/getheoc/public_html/meutelao/model/cadastro.php on line 6
+[29-Sep-2022 17:17:36 America/Cuiaba] PHP Fatal error:  Uncaught Error: Failed opening required './assets/js/plugins/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/getheoc/public_html/meutelao/model/cadastro.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 6
+[29-Sep-2022 17:19:05 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(107): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:20:37 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:75
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(103): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 75
+[29-Sep-2022 17:22:56 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:76
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(105): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 76
+[29-Sep-2022 17:24:16 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:76
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(105): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 76
+[29-Sep-2022 17:25:21 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:76
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(105): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 76
+[04-Oct-2022 22:22:59 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[04-Oct-2022 22:22:59 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[04-Oct-2022 22:22:59 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[05-Oct-2022 23:26:53 UTC] PHP Warning:  POST Content-Length of 11738983 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Oct-2022 19:26:53 America/Cuiaba] PHP Warning:  Undefined array key "idusuario" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[05-Oct-2022 19:26:53 America/Cuiaba] PHP Warning:  Undefined array key "idevento" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[05-Oct-2022 19:26:53 America/Cuiaba] PHP Warning:  Undefined array key "cod" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[05-Oct-2022 19:26:53 America/Cuiaba] PHP Warning:  Undefined array key "codArquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 23:41:29 UTC] PHP Warning:  POST Content-Length of 12828932 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Oct-2022 19:41:29 America/Cuiaba] PHP Notice:  Undefined index: idusuario in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:41:29 America/Cuiaba] PHP Notice:  Undefined index: idevento in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:41:29 America/Cuiaba] PHP Notice:  Undefined index: cod in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:41:29 America/Cuiaba] PHP Notice:  Undefined index: codArquivo in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 23:47:58 UTC] PHP Warning:  POST Content-Length of 12413115 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Oct-2022 19:47:58 America/Cuiaba] PHP Notice:  Undefined index: idusuario in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:47:58 America/Cuiaba] PHP Notice:  Undefined index: idevento in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:47:58 America/Cuiaba] PHP Notice:  Undefined index: cod in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:47:58 America/Cuiaba] PHP Notice:  Undefined index: codArquivo in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:56:35 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[07-Oct-2022 23:59:55 UTC] PHP Warning:  POST Content-Length of 14222230 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Oct-2022 19:59:55 America/Cuiaba] PHP Notice:  Undefined index: idusuario in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:59:55 America/Cuiaba] PHP Notice:  Undefined index: idevento in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:59:55 America/Cuiaba] PHP Notice:  Undefined index: cod in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 19:59:55 America/Cuiaba] PHP Notice:  Undefined index: codArquivo in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[08-Oct-2022 00:08:14 UTC] PHP Warning:  POST Content-Length of 9527890 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Oct-2022 20:08:14 America/Cuiaba] PHP Notice:  Undefined index: idusuario in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 20:08:14 America/Cuiaba] PHP Notice:  Undefined index: idevento in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 20:08:14 America/Cuiaba] PHP Notice:  Undefined index: cod in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[07-Oct-2022 20:08:14 America/Cuiaba] PHP Notice:  Undefined index: codArquivo in /home/getheoc/public_html/meutelao/model/arquivo.php on line 19
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[21-Mar-2023 23:27:17 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[03-Apr-2023 15:58:29 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:76
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(115): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 76
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[06-Apr-2023 15:14:18 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[06-Apr-2023 15:59:37 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[06-Apr-2023 18:36:07 America/Cuiaba] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/getheoc/public_html/meutelao/model/cadastro.php:76
+Stack trace:
+#0 /home/getheoc/public_html/meutelao/engine/DB.php(142): {closure}()
+#1 /home/getheoc/public_html/meutelao/model/cadastro.php(115): DB::safeTransaction(Object(Closure))
+#2 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/cadastro.php on line 76
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[06-Apr-2023 18:38:39 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[06-Apr-2023 18:39:01 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[06-Apr-2023 18:39:01 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[06-Apr-2023 18:39:01 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[06-Apr-2023 18:51:06 America/Cuiaba] PHP Warning:  Undefined array key "status" in /home/getheoc/public_html/meutelao/model/evento_aplicar.php on line 18
+[06-Apr-2023 18:51:28 America/Cuiaba] PHP Warning:  Undefined array key "status" in /home/getheoc/public_html/meutelao/model/evento_aplicar.php on line 18
+[06-Apr-2023 20:34:35 America/Cuiaba] PHP Warning:  Undefined array key "status" in /home/getheoc/public_html/meutelao/model/evento_aplicar.php on line 18
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[06-Apr-2023 22:02:38 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[16-Jun-2023 11:42:43 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[16-Jun-2023 11:42:44 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[16-Jun-2023 11:42:52 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 11:42:52 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 11:42:52 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 11:43:10 America/Cuiaba] PHP Warning:  Undefined array key "arquivo" in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 11:43:10 America/Cuiaba] PHP Warning:  Trying to access array offset on value of type null in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 11:43:10 America/Cuiaba] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/getheoc/public_html/meutelao/model/arquivo.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/getheoc/public_html/meutelao/model/arquivo.php on line 54
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[16-Jun-2023 15:22:20 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[11-Aug-2023 18:57:45 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[11-Aug-2023 18:57:46 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[01-Nov-2023 23:05:24 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_CACHEABLE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 8
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_CACHE_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 9
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_LOG_DIR already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 10
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_FIND_BEST_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 12
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_FIND_FROM_RANDOM already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 13
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_DEFAULT_MASK already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 14
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Constant QR_PNG_MAXIMUM_SIZE already defined in /home/getheoc/public_html/meutelao/phpqrcode/qrconfig.php on line 16
+[24-Dec-2023 13:13:51 America/Cuiaba] PHP Warning:  Undefined variable $ultimoId in /home/getheoc/public_html/meutelao/model/evento.php on line 87
+[26-Dec-2023 01:37:37 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0

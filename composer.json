@@ -1,0 +1,13 @@
+{
+    "name": "guilhermecoleta/meutelao",
+    "description": "Meu Telão",
+    "authors": [
+        {
+            "name": "Guilherme Theo"
+        }
+    ],
+    "require": {
+        "php": "^8.0.19",
+        "chillerlan/php-qrcode": "dev-master"
+    }
+}
